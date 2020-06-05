@@ -1,0 +1,29 @@
+.v-application {
+  background-color: $background-color !important;
+  font-family: $body-font-family !important;
+}
+
+.v-toolbar{
+  background-color: $background-color !important;
+}
+
+.button-primary{
+  background: $bg-button-primary 0% 0% no-repeat padding-box !important;
+  box-shadow: 0px 5px 8px #00000040 !important;
+  border-radius: 40px !important;
+  color: $color-button-primary !important;
+  font-size: 20px !important;
+  padding: 23px 20px !important;
+  padding-bottom: 23px !important;
+  width: 350px !important;
+  height: 70px !important;
+  text-transform: none !important;
+}
+.button-primary-icon{
+  font-size: 56px !important;
+  padding-left: 40px;
+}
+.link{
+  color:$strong_primary_color;
+  text-decoration: none;
+}

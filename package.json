@@ -23,7 +23,7 @@
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
     "axios": "^0.21.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.12.2"
   },
   "devDependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
@@ -31,7 +31,7 @@
     "@nuxtjs/eslint-module": "^1.0.0",
     "@nuxtjs/style-resources": "^1.0.0",
     "@nuxtjs/stylelint-module": "^3.1.0",
-    "@nuxtjs/vuetify": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.12.3",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
     "eslint-config-prettier": "^6.10.0",
@@ -41,7 +41,7 @@
     "lint-staged": "^10.0.0",
     "node-sass": "^4.14.1",
     "prettier": "^1.19.1",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "stylelint": "^10.1.0"
   }
 }
